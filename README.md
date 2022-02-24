@@ -5,6 +5,6 @@
 4. The project satisfies the Adhere to WordPress Coding Standards.
 5. Also added Swagger API documentation - ( Just add - '/swagger' at the end of base url and swagger ui documentation is displayed).
 6. For project to run smoothly -
-  a. install vue-cli in djackets_vue folder
-  b. run python server in base folder
-  c. run npm run serve in djackets_vue folder
+1. install vue-cli in djackets_vue folder
+2. run python server in base folder
+3. run npm run serve in djackets_vue folder
